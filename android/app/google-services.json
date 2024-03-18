@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "144953859334",
+    "project_id": "myapps-dae",
+    "storage_bucket": "myapps-dae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144953859334:android:291ebe586d4415d6e81287",
+        "android_client_info": {
+          "package_name": "com.daedae.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzSrgIlrfU49XhR3AiILr9TO7J2UwkpNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144953859334:android:b0887781efe81603e81287",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzSrgIlrfU49XhR3AiILr9TO7J2UwkpNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

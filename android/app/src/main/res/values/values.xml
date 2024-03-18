@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_app_id" translatable="false">1:144953859334:android:291ebe586d4415d6e81287</string>
+    <string name="gcm_defaultSenderId" translatable="false">144953859334</string>
+    <string name="default_web_client_id" translatable="false"></string>
+    <string name="firebase_database_url" translatable="false">https://myapps-dae.firebaseio.com</string>
+    <string name="project_id" translatable="false">myapps-dae</string>
+    <string name="storage_bucket" translatable="false">myapps-dae.appspot.com</string>
+    <string name="location_id" translatable="false">us-central</string>
+    <string name="api_key" translatable="false">AIzaSyDzSrgIlrfU49XhR3AiILr9TO7J2UwkpNY</string>
+    <string name="client_id" translatable="false"></string>
+</resources>
